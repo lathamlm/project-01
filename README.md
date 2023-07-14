@@ -5,16 +5,16 @@ ________________________________________________________________________
 
 ### PROJECT TITLE : 
 
-Data Science Salaries - Managing Expectations
+"Data Science Salaries - Managing Expectations"
 
 ________________________________________________________________________
    
 ### TEAM MEMBERS:
 
-Leah Latham
-Jonah Foeday
-Manroop Gill
-Murtatha Alwan
+Leah Latham,
+Jonah Foeday,
+Manroop Gill,
+Murtatha Alwan,
 Alicia Hill
 
 ________________________________________________________________________
