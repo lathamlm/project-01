@@ -14,7 +14,7 @@ ________________________________________________________________________
 Leah Latham,
 Jonah Foeday,
 Manroop Gill,
-Murtatha Alwan,
+Murtatha Alwan, &
 Alicia Hill
 
 ________________________________________________________________________
@@ -65,3 +65,15 @@ Murtatha Alwan - Boxplot 1 (job title)
 Alicia Hill - Line graph 2 (bottom 5), boxplot 2 (experience level)
 
 Write-up and PPT with everyone contributing.
+
+_________________________________________________________________________
+
+## REFERENCES / RESOURCES
+
+
+
+## NOTES
+
+-should we add summary statistics by top 5 countries for consistency?
+
+-should we replace bottom 5 volume line graph with experience level?
