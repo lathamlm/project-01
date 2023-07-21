@@ -79,17 +79,20 @@ _________________________________________________________________________
 - 89.8% of the company locations in the dataset were the top 5 countries (US, UK, Canada, Germany, and Spain), with 75.6% of overall company locations housed in the US
 - In addition to showing the most growth, medium-sized companies were also the most common with 2707 out of 3300 jobs
 
+
 2. What is the breakdown of experience level required for data science jobs, and how do they vary?
 - The experience level breakdown is as follows: Entry level (8.8%), Mid level (24.2%), Senior level (62.6%), and Executive level (4.4%)
 - Jobs requiring Entry-level experience had a mean salary of $ 80,000 USD and a median salary of $ 70,000 USD
 - Jobs requiring Executive-level experience had a mean salary of $ 191,500 USD and a median salary of $ 192,000 USD
 - As expected, an ANOVA test showed a stastically significant difference in salary with a p-value of 3.974 e-116
 
+
 3. What is the breakdown of job titles for data science jobs, and how do they vary?
 - The job title breakdown is as follows: Data Engineer (31.5%), Data Scientist (28.5%), Data Analyst (20.6%), Machine Learning Engineer (13.5%), Analytics Engineer (5.9%)
 - Data Analyst positions made up 20.6% of the 5 most common jobs, with the lowest mean salary among that group ( $ 110,000 USD)
 - Machine Learning Engineer positions made up 13.5% of the 5 most common jobs, with the highest mean salary among that group ($ 167,000 USD)
 - An ANOVA test showed a stastically significant difference in salary with a p-value of 9.11 e-35
+
 
 4. Do US companies hire US residents, and do US residents work for US companies?
 - US companies hired employees from 30 different countries, and 98.1% of the employees hired were also US residents
