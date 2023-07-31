@@ -127,7 +127,7 @@ _________________________________________________________________________
 
 ![employee_residence_for_us_companies](Images/employee_residence_for_us_companies.png)
 
-![company_location_for_us_residents](Images/employee_residence_for_us_companies.png)
+![company_location_for_us_residents](Images/company_location_for_us_residents.png)
 
 - US companies hired employees from 30 different countries, and 98.1% of the employees hired were also US residents
 - US residents worked for companies in 6 different countries, and 99.8% of the companies were also located in the US
