@@ -84,27 +84,51 @@ This repository contains the following:
 _________________________________________________________________________
 ## ANALYSIS AND CONCLUSION
 
-1. How have data science salaries changed over time?  (by country and company size)
+### 1. How have data science salaries changed over time?  (by country and company size)
+
+![avg_salary_changes_by_country](Images/avg_salary_changes_by_country.png)
+
+![avg_salary_changes_by_company_size](Images/avg_salary_changes_by_company_size.png)
+
 - Data science salaries have increased over time with medium size companies showing the highest growth and US companies consistently offering the highest average salary
 - 89.8% of the company locations in the dataset were the top 5 countries (US, UK, Canada, Germany, and Spain), with 75.6% of overall company locations housed in the US
 - In addition to showing the most growth, medium-sized companies were also the most common with 2707 out of 3300 jobs
 
 
-2. What is the breakdown of experience level required for data science jobs, and how do they vary?
+### 2. What is the breakdown of experience level required for data science jobs, and how do they vary?
+
+![data_science_jobs_by_experience_level](Images/data_science_jobs_by_experience_level.png)
+
+![boxplot_grouped_by_experience_level](Images/boxplot_grouped_by_experience_level.png)
+
+![summary_stats_experience_level](Images/summary_stats_experience_level.png)
+
 - The experience level breakdown is as follows: Entry level (8.8%), Mid level (24.2%), Senior level (62.6%), and Executive level (4.4%)
 - Jobs requiring Entry-level experience had a mean salary of $ 80,000 USD and a median salary of $ 70,000 USD
 - Jobs requiring Executive-level experience had a mean salary of $ 191,500 USD and a median salary of $ 192,000 USD
 - As expected, an ANOVA test showed a stastically significant difference in salary with a p-value of 3.974 e-116
 
 
-3. What is the breakdown of job titles for data science jobs, and how do they vary?
+### 3. What is the breakdown of job titles for data science jobs, and how do they vary?
+
+![data_science_jobs_by_job_title](Images/data_science_jobs_by_job_title.png)
+
+![boxplot_grouped_by_job_title](Images/boxplot_grouped_by_job_title.png)
+
+![summary_stats_job_title](Images/summary_stats_job_title.png)
+
 - The job title breakdown is as follows: Data Engineer (31.5%), Data Scientist (28.5%), Data Analyst (20.6%), Machine Learning Engineer (13.5%), Analytics Engineer (5.9%)
 - Data Analyst positions made up 20.6% of the 5 most common jobs, with the lowest mean salary among that group ( $ 110,000 USD)
 - Machine Learning Engineer positions made up 13.5% of the 5 most common jobs, with the highest mean salary among that group ($ 167,000 USD)
 - An ANOVA test showed a stastically significant difference in salary with a p-value of 9.11 e-35
 
 
-4. Do US companies hire US residents, and do US residents work for US companies?
+### 4. Do US companies hire US residents, and do US residents work for US companies?
+
+![employee_residence_for_us_companies](Images/employee_residence_for_us_companies.png)
+
+![company_location_for_us_residents](Images/company_location_for_us_residents.png)
+
 - US companies hired employees from 30 different countries, and 98.1% of the employees hired were also US residents
 - US residents worked for companies in 6 different countries, and 99.8% of the companies were also located in the US
 - Though the UK had the overall second highest job volume, no UK companies hired US residents, and no US residents worked for UK companies
