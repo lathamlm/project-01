@@ -82,7 +82,8 @@ This repository contains the following:
 * project_01_presentation.pdf - PDF version of the PowerPoint presentation
 
 _________________________________________________________________________
-## ANALYSIS AND CONCLUSION
+
+## ANALYSIS
 
 ### 1. How have data science salaries changed over time?  (by country and company size)
 
@@ -132,3 +133,19 @@ _________________________________________________________________________
 - US companies hired employees from 30 different countries, and 98.1% of the employees hired were also US residents
 - US residents worked for companies in 6 different countries, and 99.8% of the companies were also located in the US
 - Though the UK had the overall second highest job volume, no UK companies hired US residents, and no US residents worked for UK companies
+
+_________________________________________________________________________
+
+## FURTHER STUDY
+
+- During analysis, medium-size companies were found to have increased from the lowest average salary in 2021 to the highest average salary in 2022 and 2023.  In light of the global pandemic at the time, further research into possible contributing factors may be helpful in understanding this shift.
+- It was also noted that even though the United Kingdom had the second highest volume for jobs in the dataset, there was no overlap between US companies hiring UK residents or US residents working for UK companies. Further research into possible contributing factors may allow for additional insight into the hiring and application practices.
+
+_________________________________________________________________________
+
+## CONCLUSION 
+
+- Data science salaries have increased by both company location (country) and company size over time (2020-2023), with the United States and medium sized companies holding the highest overall averages. 
+- When looking at salary variations by required experience level, Senior-level positions were the most common, while Executive-level positions were the least common. Entry-level positions were the second-least common, only accounting for roughly 9% of the available positions. There were statistically significant differences in salary between the four experience levels, and variation in salary increased as experience also increased.
+- When looking at salary variations between the 5 most common job titles, Machine Learning Engineer positions held the highest average salary, and Data Analyst positions held the lowest average salary. Statistically significant differences in salary were seen here as well.
+- US companies did tend to hire US residents and US residents did tend to work for US companies. US companies hired residents from 30 different countries, with 98.1% of the residents living in the US. US residents only worked for companies in 6 countries, with 99.8% of the companies residing in the United States. 
