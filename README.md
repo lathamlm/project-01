@@ -75,7 +75,7 @@ _________________________________________________________________________
 ## INCLUDED IN THIS REPOSITORY
 
 This repository contains the following:
-* "Resourses" folder containing the original CSV file
+* "Resources" folder containing the original CSV file
 * "Images" folder containing png images of the graphs, maps, and summary statistics analyzed for this project
 * data_science.ipynb - Jupyter Notebook containing analysis
 * project_01_presentation.pptx - PowerPoint presentation containing overview of findings
